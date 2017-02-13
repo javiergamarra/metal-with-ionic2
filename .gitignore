@@ -28,6 +28,10 @@ plugins/android.json
 plugins/ios.json
 www/assets
 www/build
+www/.gitkeep
+www/index.html
+www/manifest.json
+www/service-worker.js
 $RECYCLE.BIN/
 
 .DS_Store
